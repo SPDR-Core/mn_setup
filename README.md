@@ -54,10 +54,10 @@ This means your UPU is ready to start:[![Download Bitvise](https://i.imgur.com/2
 ## Setup QT wallet
 ##### 1. Create new receiving address and copy it
 [![QT1](https://i.imgur.com/ymccgSG.png)]() 
-[![QT2](https://i.imgur.com/fz5fJFc.png)]()
+[![QT2](https://i.imgur.com/e2Lytut.png)]()
 ***
-##### 2. Send 7000 SPDR to copied address
-[![QT3](https://i.imgur.com/L7GOhjI.png)]() 
+##### 2. Send 15000 SPDR to copied address
+[![QT3](https://i.imgur.com/91mrBzj.png)]() 
 ***
 ##### 3. Wait at least 10 confirms of transaction
 [![QT4](https://i.imgur.com/oVQfXMg.png)]()
